@@ -1,1 +1,1 @@
-# IBM-PROJECT
+SmartSDLC: AI-Enhanced Software Development Lifecycle
